@@ -194,11 +194,11 @@ const statsHTML = `
     <div class="container mx-auto px-4">
         <div class="grid grid-cols-2 md:grid-cols-4 gap-8">
             <div class="text-center transform hover:scale-110 transition-transform duration-300">
-                <div class="text-5xl md:text-6xl font-bold mb-2">+90k</div>
+                <div class="text-5xl md:text-6xl font-bold mb-2">+10k</div>
                 <div class="text-lg md:text-xl opacity-90">Projetos Instalados</div>
             </div>
             <div class="text-center transform hover:scale-110 transition-transform duration-300">
-                <div class="text-5xl md:text-6xl font-bold mb-2">+400</div>
+                <div class="text-5xl md:text-6xl font-bold mb-2">+100</div>
                 <div class="text-lg md:text-xl opacity-90">Colaboradores</div>
             </div>
             <div class="text-center transform hover:scale-110 transition-transform duration-300">
@@ -227,7 +227,7 @@ const sobreHTML = `
                     Somos líderes em soluções de energia solar no Brasil, com mais de 10 anos de experiência no mercado. Nossa missão é tornar a energia limpa acessível para todos, contribuindo para um futuro mais sustentável.
                 </p>
                 <p class="text-lg text-gray-600 leading-relaxed">
-                    Com uma equipe de mais de 400 profissionais especializados, já instalamos mais de 90.000 sistemas fotovoltaicos em residências, empresas e propriedades rurais em todo o país.
+                    Com uma equipe de mais de 100 profissionais especializados, já instalamos mais de 10.000 sistemas fotovoltaicos em residências, empresas e propriedades rurais em todo o país.
                 </p>
                 <div class="grid grid-cols-2 gap-4 pt-4">
                     <div class="flex items-start space-x-3">
@@ -486,7 +486,7 @@ const depoimentosHTML = `
                 O que nossos <span class="text-green-600">Clientes</span> dizem
             </h2>
             <p class="text-xl text-gray-600 max-w-2xl mx-auto">
-                Mais de 90.000 clientes satisfeitos em todo o Brasil
+                Mais de 10.000 clientes satisfeitos em todo o Brasil
             </p>
         </div>
         
