@@ -22,11 +22,11 @@ const headerHTML = `
             </div>
             
             <div class="hidden md:flex items-center space-x-4">
-                <a href="tel:+5511999999999" class="flex items-center text-gray-700 hover:text-green-600 transition-colors duration-300">
+                <a href="tel:+5517992218286" class="flex items-center text-gray-700 hover:text-green-600 transition-colors duration-300">
                     <i class="fas fa-phone mr-2"></i>
-                    <span class="font-semibold">(11) 99999-9999</span>
+                    <span class="font-semibold">(17) 99221-8286</span>
                 </a>
-                <a href="https://wa.me/5511999999999" target="_blank" class="bg-gradient-to-r from-green-500 to-green-600 text-white px-6 py-3 rounded-full font-semibold hover:from-green-600 hover:to-green-700 transition-all duration-300 transform hover:scale-105 shadow-lg">
+                <a href="https://wa.me/5517992218286" target="_blank" class="bg-gradient-to-r from-green-500 to-green-600 text-white px-6 py-3 rounded-full font-semibold hover:from-green-600 hover:to-green-700 transition-all duration-300 transform hover:scale-105 shadow-lg">
                     <i class="fab fa-whatsapp mr-2"></i>Fale Conosco
                 </a>
             </div>
@@ -42,10 +42,10 @@ const headerHTML = `
             <a href="#projetos" class="block text-gray-700 hover:text-green-600 transition-colors duration-300 font-medium py-2">Projetos</a>
             <a href="#depoimentos" class="block text-gray-700 hover:text-green-600 transition-colors duration-300 font-medium py-2">Depoimentos</a>
             <a href="#faq" class="block text-gray-700 hover:text-green-600 transition-colors duration-300 font-medium py-2">FAQ</a>
-            <a href="tel:+5511999999999" class="block text-gray-700 hover:text-green-600 transition-colors duration-300 font-medium py-2">
-                <i class="fas fa-phone mr-2"></i>(11) 99999-9999
+            <a href="tel:+5517992218286" class="block text-gray-700 hover:text-green-600 transition-colors duration-300 font-medium py-2">
+                <i class="fas fa-phone mr-2"></i>(17) 99221-8286
             </a>
-            <a href="https://wa.me/5511999999999" target="_blank" class="block bg-gradient-to-r from-green-500 to-green-600 text-white px-6 py-3 rounded-full font-semibold text-center hover:from-green-600 hover:to-green-700 transition-all duration-300">
+            <a href="https://wa.me/5517992218286" target="_blank" class="block bg-gradient-to-r from-green-500 to-green-600 text-white px-6 py-3 rounded-full font-semibold text-center hover:from-green-600 hover:to-green-700 transition-all duration-300">
                 <i class="fab fa-whatsapp mr-2"></i>Fale Conosco
             </a>
         </div>
@@ -60,7 +60,7 @@ const heroHTML = `
         <div class="grid md:grid-cols-2 gap-12 items-center">
             <div class="space-y-6 fade-in">
                 <h1 class="text-5xl md:text-6xl font-bold text-gray-800 leading-tight">
-                    Economize até <span class="text-green-600">95%</span> na sua conta de luz
+                    Economize até <span class="text-green-600">85%</span> na sua conta de luz
                 </h1>
                 <p class="text-xl text-gray-600 leading-relaxed">
                     Invista em energia solar e transforme a luz do sol em economia real. Sustentabilidade e tecnologia de ponta para sua casa ou empresa.
@@ -101,7 +101,7 @@ const heroHTML = `
                         <div class="text-4xl font-bold text-green-600">R$ 850,00</div>
                         <div class="flex items-center text-green-600 text-sm font-semibold">
                             <i class="fas fa-arrow-up mr-2"></i>
-                            <span>95% de economia</span>
+                            <span>85% de economia</span>
                         </div>
                         <div class="pt-4 border-t border-gray-200">
                             <div class="flex justify-between text-sm text-gray-600 mb-2">
@@ -166,8 +166,8 @@ const simuladorHTML = `
                             </div>
                             <div class="text-center">
                                 <div class="text-gray-600 font-medium mb-2">Economia Mensal</div>
-                                <div class="text-3xl font-bold text-amber-600" id="savings">R$ 475</div>
-                                <div class="text-sm text-gray-500 mt-1">95% de economia</div>
+                                <div class="text-3xl font-bold text-amber-600" id="savings">R$ 425</div>
+                                <div class="text-sm text-gray-500 mt-1">85% de economia</div>
                             </div>
                         </div>
                         
@@ -176,7 +176,7 @@ const simuladorHTML = `
                                 <span class="text-gray-700 font-semibold">Economia em 25 anos:</span>
                                 <span class="text-2xl font-bold text-green-600" id="totalSavings">R$ 142.500</span>
                             </div>
-                            <a href="https://wa.me/5511999999999" target="_blank" class="block w-full bg-gradient-to-r from-amber-500 to-orange-500 text-white px-8 py-4 rounded-full font-bold text-lg hover:from-amber-600 hover:to-orange-600 transition-all duration-300 transform hover:scale-105 shadow-lg text-center">
+                            <a href="https://wa.me/5517992218286" target="_blank" class="block w-full bg-gradient-to-r from-amber-500 to-orange-500 text-white px-8 py-4 rounded-full font-bold text-lg hover:from-amber-600 hover:to-orange-600 transition-all duration-300 transform hover:scale-105 shadow-lg text-center">
                                 <i class="fab fa-whatsapp mr-2"></i>Solicitar Orçamento Grátis
                             </a>
                         </div>
@@ -206,7 +206,7 @@ const statsHTML = `
                 <div class="text-lg md:text-xl opacity-90">Anos de Garantia</div>
             </div>
             <div class="text-center transform hover:scale-110 transition-transform duration-300">
-                <div class="text-5xl md:text-6xl font-bold mb-2">95%</div>
+                <div class="text-5xl md:text-6xl font-bold mb-2">85%</div>
                 <div class="text-lg md:text-xl opacity-90">Economia Média</div>
             </div>
         </div>
@@ -296,7 +296,7 @@ const produtosHTML = `
                 </div>
                 <h3 class="text-2xl font-bold text-gray-800 mb-4">Residencial</h3>
                 <p class="text-gray-600 mb-6">
-                    Sistemas fotovoltaicos personalizados para sua casa. Reduza sua conta de luz em até 95% e valorize seu imóvel.
+                    Sistemas fotovoltaicos personalizados para sua casa. Reduza sua conta de luz em até 85% e valorize seu imóvel.
                 </p>
                 <ul class="space-y-2 mb-6">
                     <li class="flex items-center text-gray-700">
@@ -312,7 +312,7 @@ const produtosHTML = `
                         Monitoramento remoto
                     </li>
                 </ul>
-                <a href="https://wa.me/5511999999999" class="block text-center bg-green-600 text-white px-6 py-3 rounded-full font-semibold hover:bg-green-700 transition-colors duration-300">
+                <a href="https://wa.me/5517992218286" class="block text-center bg-green-600 text-white px-6 py-3 rounded-full font-semibold hover:bg-green-700 transition-colors duration-300">
                     Saiba Mais
                 </a>
             </div>
@@ -339,7 +339,7 @@ const produtosHTML = `
                         Manutenção preventiva
                     </li>
                 </ul>
-                <a href="https://wa.me/5511999999999" class="block text-center bg-blue-600 text-white px-6 py-3 rounded-full font-semibold hover:bg-blue-700 transition-colors duration-300">
+                <a href="https://wa.me/5517992218286" class="block text-center bg-blue-600 text-white px-6 py-3 rounded-full font-semibold hover:bg-blue-700 transition-colors duration-300">
                     Saiba Mais
                 </a>
             </div>
@@ -366,7 +366,7 @@ const produtosHTML = `
                         Autonomia energética
                     </li>
                 </ul>
-                <a href="https://wa.me/5511999999999" class="block text-center bg-amber-600 text-white px-6 py-3 rounded-full font-semibold hover:bg-amber-700 transition-colors duration-300">
+                <a href="https://wa.me/5517992218286" class="block text-center bg-amber-600 text-white px-6 py-3 rounded-full font-semibold hover:bg-amber-700 transition-colors duration-300">
                     Saiba Mais
                 </a>
             </div>
@@ -733,19 +733,19 @@ const footerHTML = `
                 <ul class="space-y-4">
                     <li class="flex items-start space-x-3">
                         <i class="fas fa-map-marker-alt text-green-400 mt-1"></i>
-                        <span class="text-gray-400">Av. Paulista, 1000<br>São Paulo, SP</span>
+                        <span class="text-gray-400">R Cel Spinola de Castro, 3676<br>São José do Rio Preto, SP</span>
                     </li>
                     <li class="flex items-center space-x-3">
                         <i class="fas fa-phone text-green-400"></i>
-                        <a href="tel:+5511999999999" class="text-gray-400 hover:text-green-400 transition-colors duration-300">(11) 99999-9999</a>
+                        <a href="tel:+5517992218286" class="text-gray-400 hover:text-green-400 transition-colors duration-300">(17) 99221-8286</a>
                     </li>
                     <li class="flex items-center space-x-3">
                         <i class="fas fa-envelope text-green-400"></i>
-                        <a href="mailto:contato@alftechsolar.com.br" class="text-gray-400 hover:text-green-400 transition-colors duration-300">contato@alftechsolar.com.br</a>
+                        <a href="mailto:luizfer_don@hotmail.com" class="text-gray-400 hover:text-green-400 transition-colors duration-300">luizfer_don@hotmail.com</a>
                     </li>
                     <li class="flex items-center space-x-3">
                         <i class="fab fa-whatsapp text-green-400"></i>
-                        <a href="https://wa.me/5511999999999" class="text-gray-400 hover:text-green-400 transition-colors duration-300">WhatsApp</a>
+                        <a href="https://wa.me/5517992218286" class="text-gray-400 hover:text-green-400 transition-colors duration-300">WhatsApp</a>
                     </li>
                 </ul>
             </div>
@@ -754,7 +754,7 @@ const footerHTML = `
         <div class="border-t border-gray-800 pt-8">
             <div class="flex flex-col md:flex-row justify-between items-center">
                 <p class="text-gray-400 text-sm mb-4 md:mb-0">
-                    © 2024 ALFTech Solar. Todos os direitos reservados.
+                    © 2024 ALFTech Solar. Todos os direitos reservados. | CNPJ: 53.741.456/0001-79
                 </p>
                 <div class="flex space-x-6 text-sm">
                     <a href="#" class="text-gray-400 hover:text-green-400 transition-colors duration-300">Política de Privacidade</a>
@@ -805,7 +805,7 @@ function initSimulator() {
     if (slider) {
         slider.addEventListener('input', (e) => {
             const value = parseInt(e.target.value);
-            const solar = Math.round(value * 0.05); // 5% do valor atual
+            const solar = Math.round(value * 0.15); // 15% do valor atual (85% de economia)
             const saving = value - solar;
             const total = saving * 12 * 25; // 25 anos
             
